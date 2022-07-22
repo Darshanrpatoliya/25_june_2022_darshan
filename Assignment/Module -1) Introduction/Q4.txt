@@ -1,0 +1,5 @@
+Q4.Difference between mobile application and web application
+
+-> 	Web application is online and use in multiple device
+	But, Mobile Aplication Run only Mobile Device
+	And Some Mobile Application Run by Ofline mode.

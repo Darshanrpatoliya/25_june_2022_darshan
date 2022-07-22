@@ -1,0 +1,3 @@
+Q5.Who developed Android
+
+-> Andy Rubin, Rich Miner, Nick Sears, and Chris White.

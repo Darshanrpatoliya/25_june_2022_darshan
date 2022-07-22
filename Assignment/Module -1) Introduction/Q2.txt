@@ -1,0 +1,5 @@
+Q2.Types of application
+
+->	Native Apps. Native apps are built specifically for a mobile device's operating system (OS). ...
+	Web Apps (Like as a lite version of application)
+	Hybrid Apps.(Android OS or iOS)
