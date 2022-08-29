@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spinner2</string>
+    <string-array name="city">
+        <item>Ahmedabad</item>
+        <item>Surat</item>
+        <item>Junagadh</item>
+        <item>Rajkot</item>
+        <item>Aanand</item>
+        <item>Gandhinagar</item>
+        <item>Kutch</item>
+        <item>Vadodara</item>
+        <item>Gir Somanath</item>
+        <item>Amreli</item>
+        <item>Nadiyad</item>
+    </string-array>
+</resources>

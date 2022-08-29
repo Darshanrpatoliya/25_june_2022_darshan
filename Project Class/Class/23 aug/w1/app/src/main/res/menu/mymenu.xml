@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="LogIn"
+        android:id="@+id/op_login"/>
+
+    <item android:title="Log Out"
+        android:id="@+id/op_logout"/>
+
+    <item android:title="Registration"
+        android:id="@+id/op_registration"/>
+</menu>

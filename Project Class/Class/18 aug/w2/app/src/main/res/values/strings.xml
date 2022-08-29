@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">listview</string>
+
+    <string-array name="mylang">
+        <item>C</item>
+        <item>C++</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+
+    </string-array>
+</resources>
