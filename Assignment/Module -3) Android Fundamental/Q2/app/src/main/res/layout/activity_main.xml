@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:id="@+id/main_bg">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change Screen Background"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:layout_marginTop="40dp"
+        android:textSize="25sp"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="RED"
+        android:textColor="#F40707"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="#EFEBEB"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/btn_red"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="BLUE"
+        android:textColor="#2B70E8"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="#EFEBEB"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/btn_blue"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="GREEN"
+        android:textColor="#27F342"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="#EFEBEB"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/btn_green"/>
+
+
+</LinearLayout>
