@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/homeFragment"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item
+            android:id="@+id/myOrderFragment"
+            android:title="My Order"
+            android:icon="@drawable/order"/>
+        <item
+            android:id="@+id/myAccountFragment"
+            android:title="My Account"
+            android:icon="@drawable/account"/>
+
+    </group>
+
+</menu>

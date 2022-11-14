@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav_graph"
+    app:startDestination="@id/profileFragment">
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.nd_kotak.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/languageFragment"
+        android:name="com.example.nd_kotak.LanguageFragment"
+        android:label="Language"
+        tools:layout="@layout/fragment_language" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.nd_kotak.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/callusFragment"
+        android:name="com.example.nd_kotak.CallusFragment"
+        android:label="CallUs"
+        tools:layout="@layout/fragment_callus" />
+    <fragment
+        android:id="@+id/logoutFragment"
+        android:name="com.example.nd_kotak.LogoutFragment"
+        android:label="Logout"
+        tools:layout="@layout/fragment_logout" />
+</navigation>
